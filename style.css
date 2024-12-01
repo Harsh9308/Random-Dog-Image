@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://t4.ftcdn.net/jpg/08/56/45/83/360_F_856458336_k3lOtbr3336hruIHXAmO5t0mrn4kqkIB.jpg");
+
+    background-size:cover; 
+    background-position: center;
+    background-repeat: none;;
+    height:100vh;
+    font-family:cursive;
+    color:white;
+    margin-left:4rem;
+
+}
+div{
+    height:25rem;
+    width:30rem;
+    border:2px solid black;
+    margin-top:4rem;
+    border-radius:2rem;
+    
+}
+h1{
+    font-size:4rem;
+    color: aqua;
+}
+button{
+    background-color: bisque;
+    font-size:16px;
+    padding:0.6rem;
+    border-radius:0.6rem;
+    font-family:cursive;
+}
+img{
+    width:100%;
+    height:100%;
+    border-radius:2rem;
+    
+}
